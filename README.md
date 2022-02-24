@@ -1,6 +1,6 @@
 # fake-news-detection-project
 The circulation of false news is a fundamental problem in modern democratic countries. Fake news is widely disseminated on the internet. This causes widespread consternation and terror among the general public. Hence, it is critical to determine the integrity of the information. With so many improvements in Natural Language Processing and Machine Learning, we can construct ML models to recognize whether a piece of news is legitimate or false.
-This machine leanring project for identifying false news is concerned with both fake and authentic news. In this project we have used a one hot encoding and tfidf vectorizer for the text features. Along with applying machine learning model, you will find deep learning models with 1dCNN, lstm and combination of 1dCNN and lstm.
+This machine leanring project for identifying false news is concerned with both fake and authentic news. In this project we have used a one hot encoding and tfidf vectorizer for the text features. Along with applying machine learning model, you will find deep learning models with 1dCNN, lstm and combination of 1dCNN and lstm. In the end an ensemble is created by the predictions of machine learning and deep learning models.
 
 The score that I got by creating an ensemble :
 
